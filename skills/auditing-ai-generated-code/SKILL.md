@@ -59,7 +59,7 @@ Evaluate across all seven dimensions. For each finding record: dimension, title,
 
 Produce the audit report in exactly this structure. If a section has no findings, write "None identified."
 
-```
+```markdown
 Input: [file name(s) or "code snippet"]
 Assumptions: [list any assumptions made]
 
