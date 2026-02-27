@@ -95,7 +95,7 @@ Score: XX / 100
 | 71-85 | Production-viable with targeted fixes. Risks are bounded. |
 | 86-100 | Production-ready. Minor improvements only. |
 
-Deductions: Critical finding = -10 to -20 pts. High finding = -5 to -10 pts. 3+ Medium in one dimension = -5 pts.
+Deductions: Critical finding = -30 to -40 pts. High finding = -5 to -10 pts. 3+ Medium in one dimension = -5 pts.
 
 **Effort scale:** S = < 1 day, M = 1-3 days, L = > 3 days.
 
